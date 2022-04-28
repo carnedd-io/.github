@@ -1,4 +1,6 @@
-# Carnedd.io
+<img src="https://carnedd.io/images/og-image.jpg"/>
+
+<h1>Saesneg</h1>
 <i>(Welsh) /Car-Neth/. Translation: Cairn.<br>
 Stones placed across inhospitable landscapes to lead the way.
 </i>
@@ -9,6 +11,7 @@ Stones placed across inhospitable landscapes to lead the way.
 Let us show you the way.</p>
 
 <hr>
+<h1>Cymraeg</h1>
 <i>/ˈkarnɛð/.<br/>
 Cerrig wedi'u gosod ar draws tirweddau digroeso i arwain y ffordd.</i>
 <p>Tîm o Arweinwyr Technoleg, a Datblygwyr Gwe a all eich helpu i lywio datblygiad meddalwedd.</p>
